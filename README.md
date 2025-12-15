@@ -26,3 +26,13 @@ Real-time predictions of forest cover type.
 
 Model Comparison
 Evaluation of multiple models (Random Forest, Decision Tree, Gradient Boosting, etc.) with accuracy, precision, recall, and F1-score comparisons.
+
+By Anubriya.B
+
+---
+
+### 📌 Note
+This project was developed as part of an academic program.
+The implementation, code structure, and documentation are original.
+Unauthorized reuse for academic submissions is discouraged.
+
